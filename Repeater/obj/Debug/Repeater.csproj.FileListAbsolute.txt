@@ -1,0 +1,10 @@
+C:\Documents and Settings\atoumey\My Documents\My Dropbox\scripts, fonts, sounds\LarchStarter\LarchStarter\bin\Debug\Repeater.exe
+C:\Documents and Settings\atoumey\My Documents\My Dropbox\scripts, fonts, sounds\LarchStarter\LarchStarter\bin\Debug\Repeater.pdb
+C:\Documents and Settings\atoumey\My Documents\My Dropbox\scripts, fonts, sounds\LarchStarter\LarchStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\atoumey\My Documents\My Dropbox\scripts, fonts, sounds\LarchStarter\LarchStarter\obj\Debug\Repeater.exe
+C:\Documents and Settings\atoumey\My Documents\My Dropbox\scripts, fonts, sounds\LarchStarter\LarchStarter\obj\Debug\Repeater.pdb
+C:\Documents and Settings\atoumey\My Documents\My Dropbox\scripts, fonts, sounds\LarchStarter\Repeater\obj\Debug\Repeater.exe
+C:\Documents and Settings\atoumey\My Documents\My Dropbox\scripts, fonts, sounds\LarchStarter\Repeater\obj\Debug\Repeater.pdb
+C:\Documents and Settings\atoumey\My Documents\My Dropbox\scripts, fonts, sounds\LarchStarter\Repeater\bin\Debug\Repeater.exe
+C:\Documents and Settings\atoumey\My Documents\My Dropbox\scripts, fonts, sounds\LarchStarter\Repeater\bin\Debug\Repeater.pdb
+C:\Documents and Settings\atoumey\My Documents\My Dropbox\scripts, fonts, sounds\LarchStarter\Repeater\obj\Debug\ResolveAssemblyReference.cache
